@@ -1,5 +1,5 @@
 # Impact-of-Covid-19-Pandemic-and-other-global-economic-factors-on-the-Indian-Stock-Market
-Abstract
+
 Stock trading is one of the most significant financial activities in this dynamically expanding 
 economy. Stock price prediction is the act of finding the future worth of the firm stock and other 
 financial assets traded on a marketplace. With economic uncertainty and a number of other 
